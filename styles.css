@@ -117,3 +117,7 @@ a {
 .separator:not(:empty)::after {
     margin-left: .25em;
 }
+
+#label[for="rememberMe"] {
+    margin-left: 6px;
+}
