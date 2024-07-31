@@ -2,7 +2,7 @@ body,
 html {
     font-family: 'Poppins', sans-serif;
     color: #313957;
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .title {
@@ -55,22 +55,12 @@ a {
     #tagline {
         display: none;
     }
-
-    body,
-    html {
-        font-size: 12px;
-    }
 }
 
 
 @media (max-width: 1024px) {
     #tagline {
         font-size: 18px;
-    }
-
-    body,
-    html {
-        font-size: 13px;
     }
 }
 
